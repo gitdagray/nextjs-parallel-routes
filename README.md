@@ -23,7 +23,7 @@
 
 ### Description
 
-📺 [YouTube Video]() for this repository.
+📺 [YouTube Video](https://github.com/gitdagray/nextjs-parallel-routes) for this repository.
 
 ---
 
